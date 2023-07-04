@@ -46,5 +46,8 @@
   },
   "peerDependencies": {
     "snarkyjs": "0.11.*"
+  },
+  "dependencies": {
+    "snarkyjs-elgamal": "^0.0.9"
   }
 }
